@@ -6,7 +6,7 @@ document.getElementById("button").onclick = function(){
             document.getElementById("response").className = "answer"
             document.getElementById("password").value = "ohio"
             wrongC = -999999;
-            window.open("https://www.google.com");
+            window.open("https://monkeman0.github.io/ohio/");
         }else{
             document.getElementById("response").innerHTML = "Wrong password"
             document.getElementById("response").className = "answer2"
