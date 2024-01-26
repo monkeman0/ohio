@@ -1,0 +1,33 @@
+body {
+    background: #5c2d2d;
+    text-align: center;
+    .insert {
+        font-family: Tahoma;
+        font-weight: bold;
+        font-size: 75px;
+        text-shadow: 3px 3px 6px black, 1px 1px 75px blue, 1px 1px 15px darkblue;
+        text-decoration: none;
+        text-transform: lowercase;
+        color:#3db0f3;
+    
+    }
+    .answer {
+        font-family: Tahoma;
+        font-weight: bold;
+        font-size: 60px;
+        text-shadow: 3px 3px 6px black, 1px 1px 75px rgb(0, 255, 51), 1px 1px 15px rgb(0, 139, 5);
+        text-decoration: none;
+        text-transform: lowercase;
+        color:#0be507;
+    }
+
+    .answer2 {
+        font-family: Tahoma;
+        font-weight: bold;
+        font-size: 60px;
+        text-shadow: 3px 3px 6px black, 1px 1px 75px rgb(255, 0, 0), 1px 1px 15px rgb(139, 0, 0);
+        text-decoration: none;
+        text-transform: lowercase;
+        color:#e50707;
+    }
+}
